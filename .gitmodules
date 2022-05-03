@@ -1,0 +1,3 @@
+[submodule "components/mpy"]
+	path = components/mpy
+	url = git@github.com:huming2207/esp-idf-mpy.git
